@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Group3\Soldatov.cs" />
+    <Compile Include="Group3\Nekrasov.cs" />
+    <Compile Include="Group3\Rudnev.cs" />
     <Compile Include="GroupExample\Burmin.cs" />
     <Compile Include="IKnight.cs" />
     <Compile Include="Program.cs" />
