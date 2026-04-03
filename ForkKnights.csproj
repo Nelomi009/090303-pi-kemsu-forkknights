@@ -53,10 +53,10 @@
     <None Include=".editorconfig" />
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
-    <Content Include="Group1\Group1.txt" />
-    <Content Include="Group2\Group2.txt" />
+    <Folder Include="Group1\" />
+    <Folder Include="Group2\" />
+    <Folder Include="Group3\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
